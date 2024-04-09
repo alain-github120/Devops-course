@@ -1,0 +1,17 @@
+commit dff3a59a3d70312147835b9ae08a87c5cc1bd963
+Author: alain <alainnel@yahoo.com>
+Date:   Mon Apr 8 22:45:39 2024 -0400
+
+    Added text file
+
+commit 25eba38d5566ca5cebc3ffa5340c51bca29e1b5a
+Author: alain <alainnel@yahoo.com>
+Date:   Mon Apr 8 22:43:05 2024 -0400
+
+    updated
+
+commit e88156157028156821fd21401352179fe63bcb86
+Author: alain <alainnel@yahoo.com>
+Date:   Mon Apr 8 22:40:26 2024 -0400
+
+    first commit
